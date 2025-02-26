@@ -10,7 +10,7 @@
 ---
 
 ## Introduction
-This project examines the **World Life Expectancy** dataset to identify trends in global health and their connections to economic factors. The dataset includes key variables such as life expectancy, GDP, infant deaths, adult mortality, and country status (developed or developing) across multiple years. The analysis unfolds in two main phases: **data cleaning** and **exploratory data analysis (EDA)**. The findings reveal significant health disparities influenced by economic development, laying the groundwork for practical recommendations to improve future data collection efforts.
+This project utilizes **real-world public data** from the **World Health Organization (WHO)** to explore **life expectancy trends** and their relationship with **economic factors**.
 
 ---
 
